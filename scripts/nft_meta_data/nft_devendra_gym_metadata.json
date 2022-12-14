@@ -1,0 +1,24 @@
+{
+    "description": "Workout", 
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmcSFThmrkWdSPpKwSXGJViTD7y1GFH3beL2LqLr8FZoEU", 
+    "image": "https://gateway.pinata.cloud/ipfs/QmcSFThmrkWdSPpKwSXGJViTD7y1GFH3beL2LqLr8FZoEU", 
+    "name": "In gym",
+    "attributes": [
+        {
+            "trait_type" : "Name",
+            "value" : "Devendra Yadav"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Location",
+            "value": "China"
+        },
+        {
+            "trait_type": "Action",
+            "value": "Workout in gym"
+        }
+    ]
+  }

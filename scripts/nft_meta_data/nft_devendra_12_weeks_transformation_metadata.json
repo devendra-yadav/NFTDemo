@@ -1,0 +1,24 @@
+{
+    "description": "Images of the regular progress during the 12 weeks transformation done in 2014 by Devendra Yadav", 
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmdr4BEwhgVBRkKsq7cbxvrqqhbLKNc5baQUHV8sWdyHJC", 
+    "image": "https://gateway.pinata.cloud/ipfs/Qmdr4BEwhgVBRkKsq7cbxvrqqhbLKNc5baQUHV8sWdyHJC", 
+    "name": "12 Weeks Transformation (Devendra Yadav)",
+    "attributes": [
+        {
+            "trait_type" : "Name",
+            "value" : "Devendra Yadav"
+        },
+        {
+            "trait_type": "Transformation Year",
+            "value": "2014"
+        },
+        {
+            "trait_type": "Total duration",
+            "value": "12 weeks"
+        },
+        {
+            "trait_type": "Important steps for transformation",
+            "value": "Gym workout, diet and rest"
+        }
+    ]
+  }
